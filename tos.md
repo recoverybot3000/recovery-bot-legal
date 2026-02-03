@@ -185,7 +185,7 @@ We will terminate access for users who are repeat copyright infringers.
 For questions about these Terms, contact us at:
 
 **Email:** recover3000botaddress@keemail.me  
-**Discord:** https://discord.gg/nn32uPVeFX
+**Discord:** https://discord.gg/mQmNfXncDm
 ---
 
 By using the Service, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service.
