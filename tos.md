@@ -106,7 +106,7 @@ Some jurisdictions do not allow the exclusion of certain warranties, so some of 
 - Any conduct of third parties using the Service
 - Any other matter relating to the Service
 
-**FOR ANY DIRECT DAMAGES, OUR TOTAL LIABILITY SHALL NOT EXCEED FIFTY US DOLLARS ($50.00) OR THE AMOUNT YOU PAID US IN THE PAST 12 MONTHS, WHICHEVER IS GREATER.**
+**FOR ANY DIRECT DAMAGES, OUR TOTAL LIABILITY SHALL NOT EXCEED AN AMOUNT OF ZERO IN ANY CURRENCY (EX: $0.00) OR THE AMOUNT YOU PAID US IN THE PAST 12 MONTHS, WHICHEVER IS GREATER.**
 
 Some jurisdictions do not allow limitation of liability for certain damages, so some limitations may not apply to you.
 
