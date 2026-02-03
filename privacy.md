@@ -238,7 +238,7 @@ We may update this Privacy Policy from time to time. Changes will be indicated b
 For privacy-related questions, requests, or concerns:
 
 **Email:** recover3000botaddress@keemail.me  
-**Discord:** https://discord.gg/nn32uPVeFX  
+**Discord:** https://discord.gg/mQmNfXncDm  
 **Response Time:** Unable to be certain
 
 For EU users, you may also contact our representative (if applicable):
